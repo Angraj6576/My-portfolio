@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My Personal Portfolio Website
 
 I have developed a responsive personal portfolio website showcasing my skills and projects. The front-end of the website is crafted using HTML, CSS, and Javascript. The website is designed to be fully responsive, ensuring a seamless experience across various devices.
@@ -24,3 +25,6 @@ I have developed a responsive personal portfolio website showcasing my skills an
 Feel free to explore, and don't hesitate to reach out for collaboration or inquiries.
 
 <h1>Author- Angraj Singh</h1>
+=======
+# My-portfolio
+>>>>>>> e0f82cefe818728b83eeda8d338d76da03e79aa9
